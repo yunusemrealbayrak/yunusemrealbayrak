@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate Software Developer from Istanbul,TURKEY</h3>
 
-- 💻 I’m currently learning **React - NODEJS & .NET CORE**
+- 💻 I’m currently learning **React - NodeJS & .NET CORE**
 
 - 📫 How to reach me **albayrakyunussemre@gmail.com**
 
