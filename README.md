@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate Software Developer from Istanbul,Turkiye</h3>
+<h3 align="center"> Software Developer from Istanbul,Turkiye</h3>
 
 - 💻 I’m currently learning **.NET CORE**
 
